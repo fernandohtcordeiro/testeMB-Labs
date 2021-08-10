@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 
 - [React Native](https://facebook.github.io/react-native/)
-- 
+
 - [Firebase](https://firebase.google.com/)
 
 
